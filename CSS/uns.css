@@ -1,0 +1,25 @@
+.main-div{
+
+    height: 50vh;
+    margin-bottom: 50px;
+  
+}
+
+.text-div{
+    padding-top: 35px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 35px;
+    height: 50vh;
+    color: #003087;  
+}
+
+.uberschrift{
+    padding-bottom: 15px;
+    font-weight: bold;
+}
+
+.text{
+    font-size: 20px;
+    padding-bottom: 15px;;
+}

@@ -1,0 +1,43 @@
+.flyingsec_logo{
+    font-weight: bold;
+    font-size: 2rem;
+    color: #0F044C;
+}
+
+.sec_picture{
+    border-radius: 5%;;
+    box-shadow: 10px 10px 5px grey;
+
+}
+
+.hauptueberschrift{
+    color: #201658;
+}
+.navbarTextColour{
+    color: #1D24CA;
+}
+
+.buttonColor{
+    background-color: #1D24CA;
+    color: white;
+}
+
+.text-colour{
+    color: #201658;
+    font-size: 25px;
+}
+
+.abstandNavText{
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+.navbarSchriftGroesse{
+    font-size: 20px;
+}
+
+body{
+    background-color: #EEEEEE;
+}
+
